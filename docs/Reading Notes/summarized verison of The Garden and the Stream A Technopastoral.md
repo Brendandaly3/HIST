@@ -27,5 +27,5 @@ Tag #note #ReadingNote
 ----------------------------
 ## Related Links
 
-[[@caulfieldmikeTheGarden2015]]
-[[The Stream vs The Garden]]
+- [[@caulfieldmikeTheGarden2015]]
+- [[The Stream vs The Garden]]

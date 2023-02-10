@@ -11,12 +11,12 @@ tags:: projects:
 
 --------------
 ### Summary & Key Take Aways
+ Increased rate of depression with people who use Tiktok, Snapchat, Facebook
 
- 
 --------------
 
 Links
 
-[[summarized version of Social media use linked to depression in adults]]
+- [[summarized version of Social media use linked to depression in adults]]
 
 ‌

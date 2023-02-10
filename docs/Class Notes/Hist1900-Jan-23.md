@@ -16,6 +16,6 @@ French revolution
 ------------------------
 #### Links
 
-[[Media is historical]]
-[[@gitelmanlisaAlwaysAlreadyNew2006]]
+- [[Media is historical]]
+- [[@gitelmanlisaAlwaysAlreadyNew2006]]
 

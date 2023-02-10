@@ -19,5 +19,5 @@ Tag #note #ReadingNote
 ----------------------------
 ## Related Links
 
-[[@caulfieldmikeTheGarden2015]]
+- [[@caulfieldmikeTheGarden2015]]
 

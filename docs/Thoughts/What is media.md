@@ -5,7 +5,9 @@ The Autor argues that media is a "socially realized structure of communication" 
 
 -----------------------------
 Related Links
-[[Hist1900-Jan-23]]
-[[@gitelmanlisaAlwaysAlreadyNew2006]]
+- [[Hist1900-Jan-23]]
+- [[@gitelmanlisaAlwaysAlreadyNew2006]]
 
-Tag #Atomic 
+--------------------------------------
+
+Tags #Atomic 

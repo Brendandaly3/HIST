@@ -98,3 +98,6 @@
 
 ------------------------
 #### Links
+
+[[summarized version of Amateur archaeologist uncovers ice age writing system]]
+[[@devlinhAmateurArchaeologist2023]]

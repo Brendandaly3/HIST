@@ -19,5 +19,5 @@ The article explores the relationship between technology and nature, and how the
 
 #### Links
 
-[[summarized verison of The Garden and the Stream A Technopastoral]]
-[[The Stream vs The Garden]]
+- [[summarized verison of The Garden and the Stream A Technopastoral]]
+- [[The Stream vs The Garden]]

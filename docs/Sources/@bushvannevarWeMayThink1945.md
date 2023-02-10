@@ -19,6 +19,7 @@ tags:: projects:
 --------------
 
 Links
-[[summarized version of Vannevar Bush's article]]
+
+- [[summarized version of Vannevar Bush's article]]
 
 

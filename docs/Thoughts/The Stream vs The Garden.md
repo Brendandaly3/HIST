@@ -8,5 +8,8 @@ The Steam is a constant flow of information though technology and is constantly 
 [[@caulfieldmikeTheGarden2015]]
 
 ------------------------
+Related Links
+- [[summarized verison of The Garden and the Stream A Technopastoral]]
 
-Tag #Idea 
+
+Tags #Idea 

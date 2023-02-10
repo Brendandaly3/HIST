@@ -26,4 +26,4 @@ Tag #note #ReadingNote
 ----------------------------
 ## Related Links
 
-[[@bushvannevarWeMayThink1945]]
+- [[@bushvannevarWeMayThink1945]]

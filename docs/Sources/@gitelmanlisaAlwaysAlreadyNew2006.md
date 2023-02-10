@@ -13,11 +13,11 @@ tags: projects:
 
 #### Summary & Key Take Aways
 
-
+Media is history in the way that anything that is on media is not future but always past.
 
 
 -----------------
 
 #### Links
 
-[[Media is historical]]
+- [[Media is historical]]
