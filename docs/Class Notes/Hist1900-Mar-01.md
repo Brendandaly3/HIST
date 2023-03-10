@@ -1,0 +1,13 @@
+
+- The emergance of the telephone
+	- Networks not considered novel by end of 19th century
+- The strowger automatic exchange
+	- Creates device that automaticly takes calls
+	- Bell rolls out automatic exhange by 1990 took nearly 100 years
+- 'National bell' becomes 'American bell'
+- Vail buys up short distance lines 
+	- Wants long distance phone calls 
+	- Creates lab to improve long distance telephon
+- Europe signifacantly cheaper than North American
+	- Same quality
+	- Similar to today in the way canadian telephones are signifacantly more expensive than united states or european telephones

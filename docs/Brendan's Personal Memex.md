@@ -7,6 +7,12 @@
 - [[@bushvannevarWeMayThink1945]]
 - [[@devlinhAmateurArchaeologist2023]]
 - [[@edwardseSocialMediaUse2021]]
+- [[@cowlsjoshTrolleyProblem2017]]
+- [[@tullyjohnEcologicalDisaster2009]]
+- [[@devlinhAmateurArchaeologist2023]]
+- [[@mullersimmoneCablingtheAtlantic2016]]
+- [[@standagetomTheVictorianInternet1998]]
+- [[@sterlingbruceAdaLovelaceTribute2017]]
 
 ## Thoughts
 
@@ -15,7 +21,23 @@
 -  [[What is media]]
 
 #### 'Tech'
-- [[The Stream vs The Garden]] #Idea 
+- [[The Stream vs The Garden]] 
 
-#### Unfinished Thoughts
-- 
+#### 'AI'
+- [[ANTI AI Privacy]]
+- [[ANTI AI Taking a Position of Power]]
+- [[PRO AI Predictability]]
+- [[PRO AI Group Intellegence]]
+- [[PRO AI to Avoid Descrimination.]]
+
+#### 'Cables'
+- [[Cabling and Disaster]]
+- [[Scuba Diver]]
+
+#### 'Sourcing'
+- [[Stolen Credit]]
+- [[Importance of Crediting sources]]
+
+
+
+ ![[Pasted image 20230310172834.png]]
