@@ -1,6 +1,20 @@
 
 ## Map of Content
 
+# NEW*
+## MEMEX 3
+- [[@driscollkevinTheBirthOfTheModemWorld2022]]
+- [[@IpOverAvian2022]]
+- [[@EdwardsBenjSecretLife2022]]]
+- [[@evolutionInternet2010]]
+- [[@macDougallKillerApp2014]]
+
+- [[Limitations of the evolved internet]]
+- [[Lack of Creativity]]
+- [[Connections]]
+- [[Age ambiguity]]
+- [[Packets or Pigeons]]
+
 ## Sources
 - [[@caulfieldmikeTheGarden2015]]
 - [[@gitelmanlisaAlwaysAlreadyNew2006]]
@@ -40,4 +54,4 @@
 
 
 
- ![[Pasted image 20230310172834.png]]
+![[Pasted image 20230411180023.png]]
