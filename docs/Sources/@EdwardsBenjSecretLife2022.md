@@ -19,6 +19,7 @@ The article talks about the signifigance BBS had on the social aspect of the int
 ### Links
 [[Age ambiguity]]
 [[The first social media]]
+
 ---
 
 Tags: #Memex3 

@@ -2,10 +2,14 @@
 ## Map of Content
 
 # NEW*
+### FINAL JOURNEY
+- [[0_Final Journey_1]]
+- [[0_Final Journey_2]]
+
 ## MEMEX 3
 - [[@driscollkevinTheBirthOfTheModemWorld2022]]
 - [[@IpOverAvian2022]]
-- [[@EdwardsBenjSecretLife2022]]]
+- [[@EdwardsBenjSecretLife2022]]
 - [[@evolutionInternet2010]]
 - [[@macDougallKillerApp2014]]
 
@@ -14,6 +18,7 @@
 - [[Connections]]
 - [[Age ambiguity]]
 - [[Packets or Pigeons]]
+- [[The first social media]]
 
 ## Sources
 - [[@caulfieldmikeTheGarden2015]]
